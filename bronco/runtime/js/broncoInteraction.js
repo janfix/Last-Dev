@@ -18,7 +18,7 @@
  */
 define([
     'qtiCustomInteractionContext',
-    'taoQtiItem/portableLib/jquery_2_1_1',
+    'broncoPortableInteraction/bronco/runtime/js/lib/jquery-ui',
     'broncoPortableInteraction/bronco/runtime/js/renderer',
     'taoQtiItem/portableLib/OAT/util/event',
     'css!broncoPortableInteraction/bronco/runtime/css/broncoPortableInteraction'
